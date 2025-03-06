@@ -1,0 +1,247 @@
+Insan Arastirma seviyesi : Kusatma seviyesi 3; kusatma_makinelerinin saldiri gucunu %30 artirir.
+Insan Arastirma seviyesi : Egitim seviyesi 0; tum_birimlerin %15 kritik vurus sansi saglar.
+Insan imparatorlugu :
+Piyadeler : 1000 birim (Saldiri 30,Savunma 40, Saglik 100, Kritik 5)
+Suvariler : 1000 birim (Saldiri 50,Savunma 30, Saglik 120, Kritik 8)
+Okcular : 1000 birim (Saldiri 40,Savunma 20, Saglik 80, Kritik 11)
+Kusatma makineleri : 1000 birim (Saldiri 130,Savunma 50, Saglik 150, Kritik 0)
+Yavus Sultan Selim : suvarilere %15 kritik vurus sansi saglar.
+Karakurt : okculara %10 kritik vurus sansi saglar.
+
+Ork Legi :
+Ork dovusculeri : 1000 birim (Saldiri 42,Savunma 25, Saglik 100, Kritik 9)
+Mizrakcila : 1000 birim (Saldiri 45,Savunma 20, Saglik 90, Kritik 6)
+Varg binicileri : 1000 birim (Saldiri 55,Savunma 40, Saglik 130, Kritik 7)
+Troller : 1000 birim (Saldiri 70,Savunma 40, Saglik 200, Kritik 6)
+Goruk Vahsi : ork_dovusculerine %20 saldiri bonusu saglar.
+Golge kurt : varg_binicilerine saldirilara karsi %15 savunma bonusu saglar.
+
+Adim : 1
+Piyadeler: 1000 birim x 30.00 guc = 30000.00 saldiri gucu.
+Piyadeler: 1000 birim x 40.00 guc = 40000.00 savunma gucu.
+Okcular: 1000 birim x 40.00 guc = 40000.00 saldiri gucu.
+Okcular: 1000 birim x 20.00 guc = 20000.00 savunma gucu.
+Suvariler: 1000 birim x 50.00 guc = 50000.00 saldiri gucu.
+Suvariler: 1000 birim x 30.00 guc = 30000.00 savunma gucu.
+Kustatma makine: 1000 birim x 130.00 guc = 130000.00 saldiri gucu.
+Kustatma makine: 1000 birim x 50.00 guc = 50000.00 savunma gucu.
+Kustatma makine: 1000 birim x 42.00 guc = 42000.00 saldiri gucu.
+Kustatma makine: 1000 birim x 25.00 guc = 25000.00 savunma gucu.
+Mizrakci: 1000 birim x 45.00 guc = 45000.00 saldiri gucu.
+Mizrakci: 1000 birim x 20.00 guc = 20000.00 savunma gucu.
+Varg biniciler: 1000 birim x 55.00 guc = 55000.00 saldiri gucu.
+Varg biniciler: 1000 birim x 40.25 guc = 40250.00 savunma gucu.
+Troller: 1000 birim x 70.00 guc = 70000.00 saldiri gucu.
+Troller: 1000 birim x 40.00 guc = 40000.00 savunma gucu.
+
+Insan Toplam saldiri gucu: 250000.00
+Insan Toplam savunma gucu: 140000.00
+Ork Toplam saldiri gucu: 212000.00
+Ork Toplam savunma gucu: 125250.00
+Net Hasar:
+Insan imparatorluguna net Hasar = 71999.99
+Ork Legi ne net Hasar = 124750.00
+
+Orantili Hasar dagilimi:
+Ork Legi :
+Ork dovuscu hasar : 24900.20
+Varg binici hasar : 40089.32
+Troll hasar : 39840.32
+Mizrakci hasar : 19920.16
+
+Adim : 2
+Piyadeler: 1000 birim x 30.00 guc = 30000.00 saldiri gucu.
+Piyadeler: 1000 birim x 40.00 guc = 40000.00 savunma gucu.
+Okcular: 1000 birim x 40.00 guc = 40000.00 saldiri gucu.
+Okcular: 1000 birim x 20.00 guc = 20000.00 savunma gucu.
+Suvariler: 1000 birim x 50.00 guc = 50000.00 saldiri gucu.
+Suvariler: 1000 birim x 30.00 guc = 30000.00 savunma gucu.
+Kustatma makine: 1000 birim x 130.00 guc = 130000.00 saldiri gucu.
+Kustatma makine: 1000 birim x 50.00 guc = 50000.00 savunma gucu.
+Kustatma makine: 750 birim x 42.00 guc = 31500.00 saldiri gucu.
+Kustatma makine: 750 birim x 25.00 guc = 18750.00 savunma gucu.
+Mizrakci: 778 birim x 45.00 guc = 35010.00 saldiri gucu.
+Mizrakci: 778 birim x 20.00 guc = 15560.00 savunma gucu.
+Varg biniciler: 691 birim x 55.00 guc = 38005.00 saldiri gucu.
+Varg biniciler: 691 birim x 40.25 guc = 27812.75 savunma gucu.
+Troller: 800 birim x 70.00 guc = 56000.00 saldiri gucu.
+Troller: 800 birim x 40.00 guc = 32000.00 savunma gucu.
+
+Insan Toplam saldiri gucu: 250000.00
+Insan Toplam savunma gucu: 140000.00
+Ork Toplam saldiri gucu: 160515.00
+Ork Toplam savunma gucu: 94122.75
+Net Hasar:
+Insan imparatorluguna net Hasar = 20515.00
+Ork Legi ne net Hasar = 155877.25
+
+Orantili Hasar dagilimi:
+Insan Imparatorlugu :
+Piyade hasar : 5861.43
+Okcu hasar : 2930.71
+Suvari hasar : 4396.07
+Kusatma Makinesi hasar : 7326.79
+
+Adim : 3
+Piyadeler: 941 birim x 30.00 guc = 28230.00 saldiri gucu.
+Piyadeler: 941 birim x 40.00 guc = 37640.00 savunma gucu.
+Okcular: 963 birim x 40.00 guc = 38520.00 saldiri gucu.
+Okcular: 963 birim x 20.00 guc = 19260.00 savunma gucu.
+Suvariler: 963 birim x 50.00 guc = 48150.00 saldiri gucu.
+Suvariler: 963 birim x 30.00 guc = 28890.00 savunma gucu.
+Kustatma makine: 951 birim x 130.00 guc = 123630.00 saldiri gucu.
+Kustatma makine: 951 birim x 50.00 guc = 47550.00 savunma gucu.
+Kustatma makine: 750 birim x 42.00 guc = 31500.00 saldiri gucu.
+Kustatma makine: 750 birim x 25.00 guc = 18750.00 savunma gucu.
+Mizrakci: 778 birim x 45.00 guc = 35010.00 saldiri gucu.
+Mizrakci: 778 birim x 20.00 guc = 15560.00 savunma gucu.
+Varg biniciler: 691 birim x 55.00 guc = 38005.00 saldiri gucu.
+Varg biniciler: 691 birim x 40.25 guc = 27812.75 savunma gucu.
+Troller: 800 birim x 70.00 guc = 56000.00 saldiri gucu.
+Troller: 800 birim x 40.00 guc = 32000.00 savunma gucu.
+
+Insan Toplam saldiri gucu: 238530.00
+Insan Toplam savunma gucu: 133340.00
+Ork Toplam saldiri gucu: 160515.00
+Ork Toplam savunma gucu: 94122.75
+Net Hasar:
+Insan imparatorluguna net Hasar = 27175.00
+Ork Legi ne net Hasar = 144407.25
+
+Orantili Hasar dagilimi:
+Ork Legi :
+Ork dovuscu hasar : 28767.07
+Varg binici hasar : 42671.54
+Troll hasar : 49095.80
+Mizrakci hasar : 23872.83
+
+Adim : 4
+Piyadeler: 941 birim x 30.00 guc = 28230.00 saldiri gucu.
+Piyadeler: 941 birim x 40.00 guc = 37640.00 savunma gucu.
+Okcular: 963 birim x 40.00 guc = 38520.00 saldiri gucu.
+Okcular: 963 birim x 20.00 guc = 19260.00 savunma gucu.
+Suvariler: 963 birim x 50.00 guc = 48150.00 saldiri gucu.
+Suvariler: 963 birim x 30.00 guc = 28890.00 savunma gucu.
+Kustatma makine: 951 birim x 130.00 guc = 123630.00 saldiri gucu.
+Kustatma makine: 951 birim x 50.00 guc = 47550.00 savunma gucu.
+Kustatma makine: 462 birim x 42.00 guc = 19404.00 saldiri gucu.
+Kustatma makine: 462 birim x 25.00 guc = 11550.00 savunma gucu.
+Mizrakci: 512 birim x 45.00 guc = 23040.00 saldiri gucu.
+Mizrakci: 512 birim x 20.00 guc = 10240.00 savunma gucu.
+Varg biniciler: 362 birim x 55.00 guc = 19910.00 saldiri gucu.
+Varg biniciler: 362 birim x 40.25 guc = 14570.50 savunma gucu.
+Troller: 554 birim x 70.00 guc = 38780.00 saldiri gucu.
+Troller: 554 birim x 40.00 guc = 22160.00 savunma gucu.
+
+Insan Toplam saldiri gucu: 238530.00
+Insan Toplam savunma gucu: 133340.00
+Ork Toplam saldiri gucu: 101134.00
+Ork Toplam savunma gucu: 58520.50
+Net Hasar:
+Insan imparatorluguna net Hasar = 0.00
+Ork Legi ne net Hasar = 180009.50
+
+Orantili Hasar dagilimi:
+Insan Imparatorlugu :
+Piyade hasar : 0.00
+Okcu hasar : 0.00
+Suvari hasar : 0.00
+Kusatma Makinesi hasar : 0.00
+
+Adim : 5
+Piyadeler: 941 birim x 30.00 guc = 28230.00 saldiri gucu.
+Piyadeler: 941 birim x 40.00 guc = 37640.00 savunma gucu.
+Okcular: 963 birim x 40.00 guc = 38520.00 saldiri gucu.
+Okcular: 963 birim x 20.00 guc = 19260.00 savunma gucu.
+Suvariler: 963 birim x 50.00 guc = 48150.00 saldiri gucu.
+Suvariler: 963 birim x 30.00 guc = 28890.00 savunma gucu.
+Kustatma makine: 951 birim x 130.00 guc = 123630.00 saldiri gucu.
+Kustatma makine: 951 birim x 50.00 guc = 47550.00 savunma gucu.
+Kustatma makine: 462 birim x 42.00 guc = 19404.00 saldiri gucu.
+Kustatma makine: 462 birim x 25.00 guc = 11550.00 savunma gucu.
+Mizrakci: 512 birim x 45.00 guc = 23040.00 saldiri gucu.
+Mizrakci: 512 birim x 20.00 guc = 10240.00 savunma gucu.
+Varg biniciler: 362 birim x 55.00 guc = 19910.00 saldiri gucu.
+Varg biniciler: 362 birim x 40.25 guc = 14570.50 savunma gucu.
+Troller: 554 birim x 70.00 guc = 38780.00 saldiri gucu.
+Troller: 554 birim x 40.00 guc = 22160.00 savunma gucu.
+
+Insan Toplam saldiri gucu: 238530.00
+Insan Toplam savunma gucu: 133340.00
+Ork Toplam saldiri gucu: 101134.00
+Ork Toplam savunma gucu: 58520.50
+Net Hasar:
+Insan imparatorluguna net Hasar = 0.00
+Ork Legi ne net Hasar = 180009.50
+
+Orantili Hasar dagilimi:
+Ork Legi :
+Ork dovuscu hasar : 35527.89
+Varg binici hasar : 44818.97
+Troll hasar : 68164.33
+Mizrakci hasar : 31498.32
+
+Adim : 6
+Piyadeler: 941 birim x 27.00 guc = 25407.00 saldiri gucu.
+Piyadeler: 941 birim x 36.00 guc = 33876.00 savunma gucu.
+Okcular: 963 birim x 36.00 guc = 34668.00 saldiri gucu.
+Okcular: 963 birim x 18.00 guc = 17334.00 savunma gucu.
+Suvariler: 963 birim x 45.00 guc = 43335.00 saldiri gucu.
+Suvariler: 963 birim x 27.00 guc = 26001.00 savunma gucu.
+Kustatma makine: 951 birim x 117.00 guc = 111267.00 saldiri gucu.
+Kustatma makine: 951 birim x 45.00 guc = 42795.00 savunma gucu.
+Kustatma makine: 106 birim x 37.80 guc = 4006.80 saldiri gucu.
+Kustatma makine: 106 birim x 22.50 guc = 2385.00 savunma gucu.
+Mizrakci: 162 birim x 40.50 guc = 6561.00 saldiri gucu.
+Mizrakci: 162 birim x 18.00 guc = 2916.00 savunma gucu.
+Varg biniciler: 17 birim x 49.50 guc = 841.50 saldiri gucu.
+Varg biniciler: 17 birim x 36.22 guc = 615.82 savunma gucu.
+Troller: 213 birim x 63.00 guc = 13419.00 saldiri gucu.
+Troller: 213 birim x 36.00 guc = 7668.00 savunma gucu.
+
+Insan Toplam saldiri gucu: 214677.00
+Insan Toplam savunma gucu: 120006.00
+Ork Toplam saldiri gucu: 24828.30
+Ork Toplam savunma gucu: 13584.83
+Net Hasar:
+Insan imparatorluguna net Hasar = 0.00
+Ork Legi ne net Hasar = 201092.17
+
+Orantili Hasar dagilimi:
+Insan Imparatorlugu :
+Piyade hasar : 0.00
+Okcu hasar : 0.00
+Suvari hasar : 0.00
+Kusatma Makinesi hasar : 0.00
+
+Adim : 7
+Piyadeler: 941 birim x 27.00 guc = 25407.00 saldiri gucu.
+Piyadeler: 941 birim x 36.00 guc = 33876.00 savunma gucu.
+Okcular: 963 birim x 36.00 guc = 34668.00 saldiri gucu.
+Okcular: 963 birim x 18.00 guc = 17334.00 savunma gucu.
+Suvariler: 963 birim x 45.00 guc = 43335.00 saldiri gucu.
+Suvariler: 963 birim x 27.00 guc = 26001.00 savunma gucu.
+Kustatma makine: 951 birim x 117.00 guc = 111267.00 saldiri gucu.
+Kustatma makine: 951 birim x 45.00 guc = 42795.00 savunma gucu.
+Kustatma makine: 106 birim x 37.80 guc = 4006.80 saldiri gucu.
+Kustatma makine: 106 birim x 22.50 guc = 2385.00 savunma gucu.
+Mizrakci: 162 birim x 40.50 guc = 6561.00 saldiri gucu.
+Mizrakci: 162 birim x 18.00 guc = 2916.00 savunma gucu.
+Varg biniciler: 17 birim x 49.50 guc = 841.50 saldiri gucu.
+Varg biniciler: 17 birim x 36.22 guc = 615.82 savunma gucu.
+Troller: 213 birim x 63.00 guc = 13419.00 saldiri gucu.
+Troller: 213 birim x 36.00 guc = 7668.00 savunma gucu.
+
+Insan Toplam saldiri gucu: 214677.00
+Insan Toplam savunma gucu: 120006.00
+Ork Toplam saldiri gucu: 24828.30
+Ork Toplam savunma gucu: 13584.83
+Net Hasar:
+Insan imparatorluguna net Hasar = 0.00
+Ork Legi ne net Hasar = 201092.17
+
+Orantili Hasar dagilimi:
+Ork Legi :
+
+
+Insan Imparatorlugu kazandi!!!
