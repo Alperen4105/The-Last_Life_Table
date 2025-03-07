@@ -23,4 +23,5 @@ Finally, you need to add the paths of the lib and bin file paths required for th
 Then you need to copy the lip and bin files in the cURL file to your project file.
 Finally, you need to add the paths of the lib and bin file paths required for the project file to the EDU you are using.  
 *Cloning the repository:  
-  
+For HTTPS -> https://github.com/Alperen4105/The-Last_Life_Table.git  
+For 
